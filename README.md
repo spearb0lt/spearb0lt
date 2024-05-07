@@ -1,19 +1,16 @@
-
+# Welcome To My Github
  ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
 
 
-👋 Hi, I’m Shubhro Dev
+👋 Hello I’m Shubhro Dev
 
 🎓 I’m currently pursuing Btech CSE from RGIPT Jais
 
-💻This is my official GitHub for college
+💻This is my official GitHub
 
-📝I post lab assignments here.
+📝I am highly interested in Web-Development and AI_ML
 
-
-
-
-
+🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
 
 
 
