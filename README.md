@@ -51,9 +51,6 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
 
 
-
-
-
 ![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
 
 
@@ -62,7 +59,7 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 <p align="left">
 <a href="https://linkedin.com/in/shubhro-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhro-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhro_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhro_x" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/spearbolt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spearbolt" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/spearbolt" target="blank"><img align="center" src="https://github.com/user-attachments/assets/dcdca461-3977-4254-9ccc-111e323a437f" alt="spearbolt" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
