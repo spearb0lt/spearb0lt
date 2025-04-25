@@ -47,9 +47,9 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
 📝I am highly interested in Web-Development and AI-ML
 
-🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
+ <!---🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
 
-
+--->
 
 ![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
 
