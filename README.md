@@ -64,7 +64,12 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhro-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhro-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhro_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhro_x" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Have a look at:</h3>
+<p align="left">
+<a href="https://scholar.google.com/citations?user=rNBVr8gAAAAJ" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d055a121-226c-4b00-820e-8700fef6d5ee" alt="shubhro-dev" height="40" width="40" /></a>
+<!--  <a href="https://instagram.com/shubhro_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhro_x" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/spearbolt" target="blank"><img align="center" src="https://github.com/user-attachments/assets/dcdca461-3977-4254-9ccc-111e323a437f" alt="spearbolt" height="40" width="40" /></a>
 </p>
 
