@@ -98,17 +98,8 @@ https://www.researchgate.net/profile/Shubhro-Dev
 <a href="https://scholar.google.com/citations?user=rNBVr8gAAAAJ" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d055a121-226c-4b00-820e-8700fef6d5ee" alt="shubhro-dev" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/spearbolt" target="blank"><img align="center" src="https://github.com/user-attachments/assets/dcdca461-3977-4254-9ccc-111e323a437f" alt="spearbolt" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Shubhro-Dev" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e0280ec4-a1d5-49e6-aa9e-f98c9475cd2a" alt="spearbolt" height="40" width="40" /></a>
+<a href="https://orcid.org/0009-0007-1590-1839" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f5393358-2e6f-4c1c-94ce-7683f44953c1" alt="spearbolt" height="40" width="40" /></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=59898515300" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0601c7dc-0e48-43dc-988e-978dba92a85c" alt="spearbolt" height="40" width="40" /></a>
-
-
-
-![RG_Logo 02_Black White](https://github.com/user-attachments/assets/abadefbb-62d2-4dc7-b4ce-0c1cab2b9873)
-
-
-
-
-
-![Research-Gate-Icon-300x300]()
 
 
 
