@@ -82,6 +82,7 @@ https://www.researchgate.net/profile/Shubhro-Dev
 
 
 
+<a href="https://www.scopus.com/authid/detail.uri?authorId=59898515300" target="blank"><img align="center" src="https://github.com/user-attachments/assets/abb2e0fd-1551-481d-9dea-027c02fb22a8" alt="spearbolt" height="40" width="40" /></a>
 
 
 
@@ -96,7 +97,8 @@ https://www.researchgate.net/profile/Shubhro-Dev
  <a href="https://linkedin.com/in/shubhro-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhro-dev" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=rNBVr8gAAAAJ" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d055a121-226c-4b00-820e-8700fef6d5ee" alt="shubhro-dev" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/spearbolt" target="blank"><img align="center" src="https://github.com/user-attachments/assets/dcdca461-3977-4254-9ccc-111e323a437f" alt="spearbolt" height="40" width="40" /></a>
-
+<a href="https://www.researchgate.net/profile/Shubhro-Dev" target="blank"><img align="center" src="https://github.com/user-attachments/assets/47f2e29a-dbfe-4c28-9e30-43d7a7bbb3a4" alt="spearbolt" height="40" width="40" /></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=59898515300" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0601c7dc-0e48-43dc-988e-978dba92a85c" alt="spearbolt" height="40" width="40" /></a>
 
 
 
