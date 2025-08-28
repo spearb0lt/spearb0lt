@@ -47,11 +47,11 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
 👋 Hello I’m Shubhro Dev
 
-🎓 I’m currently pursuing Btech CSE from RGIPT Jais
+🎓 I’m currently pursuing Btech CSE from RGIPT Bangalore
 
 💻This is my official GitHub
 
-📝I am highly interested in Machine Learning 
+📝I am highly interested in solving real world probblems with ML
 
  <!---🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
 
