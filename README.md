@@ -47,15 +47,28 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
 👋 Hello I’m Shubhro Dev
 
-🎓 I’m currently pursuing Btech CSE from RGIPT Bangalore
+🎓 I’m a final year B.Tech CSE undergrad from RGIPT Jais
 
-💻This is my official GitHub
+💻 This is my official GitHub containing some projects which I have built
 
-📝I am highly interested in solving real world probblems with ML
+📝 I like building projects which have real-life impact or which sounds fun to me!!
 
- <!---🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
+⚙️ I mainly work in AI/ML-DL specturm including Time-Series, CV, NLP, LLMs and more
+
+
+
+
+
+ <!---
+
+am highly interested in solving real world probblems with ML
+🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
+I’m currently pursuing Btech CSE from RGIPT Bangalore
+RGIPT(An Institute of National Importance)
+⚙️ I mainly work in Machine Learning-Deep Learning specturm including Time-Series, CV, NLP, LLMs and more
 
 --->
+
 
 ![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
 
