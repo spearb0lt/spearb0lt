@@ -40,22 +40,23 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 --->
 
 
-
 # Welcome To My Github
- ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
+  <!---![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)--->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02aa1d03-a9bc-4ac1-a6dc-51b63f501fd5" alt="Shubhro Dev" width="498" />
+</p>
 
+👋 Hello, I'm **Shubhro Dev** an AI/ML researcher working on large language models, multimodal deep learning, natural language processing, agents and time-series analysis.
 
-👋 Hello I’m Shubhro Dev
+🎓 B.Tech in Computer Science and Engineering from **RGIPT** (an Institute of National Importance, along the lines of the IITs), 2022–2026
 
-🎓 I’m a final year B.Tech CSE undergrad from RGIPT Jais
-
-💻 This is my official GitHub containing some projects which I have built
+🔬 Most recently a **Technical Research Intern** with the Global DAI R (SDE-IN) team at **Siemens**, researching the validation and verification of LLM outputs
 
 📝 I like building projects which have real-life impact or which sounds fun to me!!
 
-⚙️ I mainly work in AI/ML-DL specturm including Time-Series, CV, NLP, LLMs and more
+ <!---⚙️ Mostly ML/DL — Time-Series, CV, NLP, LLMs and agents, and increasingly the privacy and verification side of all of it--->
 
-
+🌐 Everything in one place: **[spearb0lt.github.io](https://spearb0lt.github.io)**
 
 
 
@@ -164,8 +165,42 @@ https://www.researchgate.net/profile/Shubhro-Dev
 
 
  -->
+<!-- # 🛠️ Selected Work -->
+<details>
+<!-- # 🛠️ Selected Work -->
+<summary><b>🛠️ Selected Projects</summary>
+ 
+| Project | What it is |
+| :-- | :-- |
+| **[Privacy-Preserving Predictive Maintenance](https://github.com/spearb0lt/Scania)** | Federated, differentially private RUL prediction on the IDA 2024 SCANIA-X challenge. Spectral-DP and DP-SGD implemented from scratch with a Rényi/Moments accountant, a Transformer time-series encoder paired with a TabTransformer head, aggregated across heterogeneous clients with `flwr`. Best RUL model on the dataset at **MSE 2725**, while an advanced membership inference attack gets only **49.12% AUC** — i.e. no better than a coin flip. |
+| **[UHCI / SignBridge](https://github.com/spearb0lt/Universal-Human-Communication-Interface-UHCI)** | A fully offline communication app for Deaf and non-speaking users. **Twelve input channels** — morse keyed by a blink or a tap, sign language, lip reading, eye gaze, air-writing, a head-driven cursor, braille held up to the camera — all feed one message box. No API keys, no accounts, no network at runtime. ~129 modules, 38.6k lines, 1,044 passing tests, and every performance number measured on real hardware. |
+| **[CodeGen — Autonomous CP Solver](https://github.com/spearb0lt/my-codegen-api2)** | The end-to-end AI solver I built for the **Meta Hacker Cup 2025 AI Track**, where it placed **Global Rank 10**. FastAPI + Gemini, multimodal problem-statement parsing, generate–test–repair loops. ([dev history and client tooling](https://github.com/spearb0lt/CodeGen-Hacker-Cup-AI-devkit)) |
+| **[BidRAG](https://github.com/spearb0lt/BidRAG)** | Open-source RAG extraction for RFQs, tenders and contracts, with every answer traceable back to its source page. An open reimplementation of *Bidify*, the internal Siemens application I worked on — same feature set, lighter, and swappable at every layer (LLM, embeddings, extraction, storage, auth) with a free offline default everywhere. |
+| **[Olist Marketplace Intelligence](https://github.com/spearb0lt/Olist-Marketplace-Analytics)** | An end-to-end analyst project on Brazilian e-commerce data. Late delivery causes a **1.70-point drop** in review score (95% CI [−1.76, −1.67]), survives four robustness attacks including an **E-value of 11.17**, and the failing leg is carrier transit, not the seller. Tested dbt/DuckDB warehouse, runs in ~90s from a clean clone. [Live Tableau dashboard](https://public.tableau.com/app/profile/shubhro.dev/viz/olist_marketplace/0-Starthere) |
+| **[Context-Aware Multimodal Retrieval](https://github.com/spearb0lt/Context-Aware-Multimodal-Knowledge-Retrieval-System)** | A multimodal RAG pipeline over PDFs that retrieves across text, tables, figures and formulas with cited answers. Modality-specific pipelines pick the right LLM per content type; three retrieval paths run in parallel (summary embeddings, raw atomic content, CLIP text-to-image). |
+| **[Non-conflicting Timetable Generator](https://github.com/spearb0lt/CP-SAT-Based-Timetabling-and-Exam-Arrangement)** | University timetabling as a constraint satisfaction problem in OR-Tools CP-SAT — nine lexicographic objective tiers, so *"why was my morning preference broken?"* is mechanically answerable. Verified by an independent checker that shares **no code** with the solver, and it diagnoses ("you are 108 teaching hours short") instead of saying *infeasible*. |
+| **[SENTRAL](https://github.com/spearb0lt/SENTRAL-Multi-Spectrum-Stock-Analysis)** | Multi-spectrum equity analysis: 14 fundamental metrics (with Piotroski F-Score and Altman Z-Score), 18 technical indicators, news sentiment from **10 LLMs** over a corpus gathered from seven APIs, and Transformer/LSTM forecasting, ensembled into buy/hold/sell probabilities. |
+| **[LitigatAI](https://github.com/spearb0lt/LitigatAI)** | An AI litigation and dispute-resolution platform for Indian legal practice, with 10 integrated tools and a live demo. |
+| **[TimeWeave](https://github.com/spearb0lt/demo-timeweave)** | A team hackathon project for **American Express** (I wrote the bulk of it): cross-channel journey stitching into one identity, churn scoring with per-driver attribution in raw feature space, and counterfactual cohorts — every recommendation labelled as correlational, never as causal uplift. ([team repo](https://github.com/aayushdebugging/amex-hackathon)) |
+</details>
+<details>
+<summary><b>More projects</b> - legal NLP, medical imaging, federated learning, CV and tools</summary>
 
+<br>
 
+| Project | What it is |
+| :-- | :-- |
+| **[Legal-RAG](https://github.com/spearb0lt/Legal-RAG)** | A citation-grounded RAG chatbot over Indian statutes and case law, with hybrid vector + BM25 retrieval. |
+| **[Consumer Commission Complaint Agent](https://github.com/spearb0lt/Consumer-Commission-Complaint-Agent)** | A guided-intake agent that turns a plain-language grievance into a file-ready Indian Consumer Commission complaint. Live demo available. |
+| **[Lung Cancer Detection with Soft Attention](https://github.com/spearb0lt/Lung-Cancer-Detection-Using-DL)** | Soft-attention deep transfer learning for lung cancer identification from CT scans and histopathology. Published at IEEE ISACC 2025. |
+| **[Federated Cervical Cancer Detection](https://github.com/spearb0lt/Cervical-Cancer-Detection-implementing-FL-using-Pap-Smear-Dataset)** | Cervical cancer detection on Pap smear images, comparing three federated learning strategies. |
+| **[Federated Heart Disease Prediction](https://github.com/spearb0lt/Heart-Disease-Prediction-with-Biomarkers-using-Federated-Learning)** | Predicting heart disease from clinical biomarkers under federated learning. |
+| **[Face Liveliness Detection](https://github.com/spearb0lt/Face-Liveliness-Detection-Using-DL)** | A lightweight, fast anti-spoofing model that tells real faces from fake images and videos. |
+| **[Gesture Video Controller](https://github.com/spearb0lt/Gesture-Video-Controller)** | Webcam hand-tracking to control media playback with single-hand and dual-hand gestures. |
+| **[Job-Aligner](https://github.com/spearb0lt/Job-Aligner-Latex-to-PDF-Generator)** | Tailors a LaTeX resume to any job description and compiles a submission-ready PDF, with a Chrome extension front end. |
+| **[Text-to-Handwriting Converter](https://github.com/spearb0lt/Text-to-Handwriting-converter)** | Converts typed text (including tables) into realistic handwriting and exports it as an A4 PDF. |
+
+</details>
 
 
 
