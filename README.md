@@ -42,7 +42,7 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
 
 # Welcome To My Github
- ![plot](https://github.com/user-attachments/assets/29bb2ec1-bcdb-450f-801d-e70dfd6e99d1)
+ ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
 
 
 👋 Hello I’m Shubhro Dev
