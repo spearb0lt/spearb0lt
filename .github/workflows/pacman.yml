@@ -1,0 +1,45 @@
+# Arcade contribution graphs for the profile README.
+#
+# Put this file at .github/workflows/pacman.yml in the spearb0lt/spearb0lt repo.
+#
+# One-time setup:
+#   1. Settings -> Actions -> General -> Workflow permissions -> "Read and write
+#      permissions" -> Save. Without this the push to the output branch fails.
+#   2. Actions tab -> "generate arcade contribution graphs" -> Run workflow.
+#
+# The action renders the SVGs and pushes them to a branch named `output`, which the
+# README reads from over raw.githubusercontent.com. It reruns daily on the schedule
+# below, so the graph stays current without you touching it.
+#
+# Games available: pacman, breakout, galaga, puzzle-bobble, bomberman, minesweeper.
+# Add a name to the `games` list below, rerun the workflow, then uncomment that game's
+# <picture> block in the README. Each game writes two files to the output branch:
+#   <game>-contribution-graph.svg       (light)
+#   <game>-contribution-graph-dark.svg  (dark)
+
+name: generate arcade contribution graphs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # To also render Galaga and Breakout, change this to:
+          #   games: "pacman,galaga,breakout"
+          # then uncomment the matching blocks in README.md.
+          games: "pacman"
+          hide_month_labels: "false"
